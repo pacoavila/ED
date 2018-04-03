@@ -1,0 +1,401 @@
+::ED03011::El ordenador sólo entiende un lenguaje conocido como código binario o código máquina, ¿cuál es?{
+=0 y 1.
+~%-33.3333%Ensamblador.
+~%-33.3333%Código ASCII.
+~%-33.3333%Código desensamblador.
+}
+
+::ED03012::Los lenguajes más próximos a la arquitectura hardware se denominan ...{
+~%-33.3333%Lenguajes de alto nivel.
+=Lenguajes de bajo nivel.
+~%-33.3333%Lenguajes hardware.
+~%-33.3333%Lenguajes cercanos.
+}
+
+::ED03013::Los lenguajes más cercanos a los programadores y usuarios se denominan ...{
+~%-33.3333%Lenguaje programador.
+~%-33.3333%Lenguajes de bajo nivel.
+=Lenguajes de alto nivel.
+~%-33.3333%Lenguajes cercanos.
+}
+
+::ED03021::¿Qué es el código o programa ejecutable?{
+=Traducción completa a código máquina, realizada por el enlazador y que ya es directamente ejecutable.
+~%-33.33333%Programa diseñado específicamente para la detección, verificación y corrección de errores.
+~%-33.33333%Aplicación software que ejecuta los programas como si fuese una máquina real.
+~%-33.33333%Conjunto de instrucciones que una vez ejecutadas realizarán una o varias tareas en una computadora.
+}
+
+::ED03022::¿Qué es un compilador?{
+~%-33.33333%Es una tecnología de Microsoft en su plataforma .NET del tipo “lado servidor” para páginas web generadas dinámicamente, que ha sido comercializada como un anexo a Internet Information Server (IIS).
+=Programa encargado de traducir los programas fuentes escritos en un lenguaje de alto nivel a lenguaje máquina y de comprobar que las llamadas a las funciones de librería se realizan correctamente.
+~%-33.33333%Lenguaje interpretado de lado del cliente que facilita mejoras en la interfaz del usuario y dinamismo en las páginas.
+~%-33.33333%Conjunto de programas informáticos que permiten a un usuario utilizar una computadora con un fin específico.
+}
+
+::ED03023::¿Qué es un enlazador?{
+=Programa encargado de insertar al programa objeto el código máquina de las funciones contenidas en los archivos de biblioteca usadas en el programa y realizar el proceso de montaje, que producirá un programa ejecutable.
+~%-33.33333%Programa que primero pasa por una fase de compilación en la que el código fuente se transforma en bytecode y éste puede ser ejecutado luego en plataformas con distintas arquitecturas que tengan instalados una máquina virtual.
+~%-33.33333%Está basado en el flujo de datos a través del sistema.
+~%-33.33333%Todas las anteriores.
+}
+
+::ED03031::¿Qué tipos de licencia de software hay?{
+=Software libre,software propietario y software de dominio público.
+~%-33.33333%b)Software libre y software pirata.
+~%-33.33333%c)Software libre y de licencia.
+~%-33.33333%d)Software linux.
+}
+
+::ED03032::Un programa informático es...{
+= Un conjunto de instrucciones que una vez ejecutadas realizan tareas en una computadora.
+~%-33.33333% Una serie de números puestos al azar.
+~%-33.33333% Un conjunto de instrucciones de 1s y 2s.
+~%-33.33333% Una página web.
+}
+
+::ED03033::¿Qué código comprende únicamente 0s y 1s?{
+=Código máquina .
+~%-33.33333% Java.
+~%-33.33333% Python.
+~%-33.33333% C#.
+}
+
+::ED03041::¿Con qué herramienta o lenguaje de modelado se analiza el diseño orientado a objetos?{
+~%-33.33333%Con regla y lápiz
+=Con el lenguaje de modelado UML
+~%-33.33333%Con escuadra y cartabón
+~%-33.33333%Lenguaje de modelado XXX
+}
+
+
+::ED03042::¿Qué finalidad tienen las pruebas en el desarrollo de una aplicación?{
+~%-33.33333%Ninguna
+~%-33.33333%Fastidiar al trabajador
+=Validar y verificar software
+~%-33.33333%Perder el tiempo
+}
+
+::ED03043::El diseño estructurado consta de...{
+~%-33.33333%Muchas letras
+=Notaciones no gráficas como gráficas, por ejemplo: pseudocódigo o diagramas de flujo
+~%-33.33333%el condensador de fluzo
+~%-33.33333%Pseudoestructura
+}
+
+::ED03051::Fases de programación:{
+= Tabulado,rápido,claro y modular.
+~%-33.33333% Correcto,eficiente,claro y modular.
+~%-33.33333% Correcto,eficiente y claro.
+~%-33.33333% Correcto,eficiente,claro y semimodular
+}
+
+::ED03052::¿Qué es un ordinograma?{
+~%-33.33333% Secuencia de instrucciones realizadas después que el código.
+= Herramienta donde muestra la secuencia de las operaciones del programa.
+~%-33.33333% Papel donde se muestra el código del programa.
+~%-33.33333% Programa que tabula el código de un programa
+}
+
+::ED03053::¿Cuándo un programa es eficiente?{
+~%-33.33333% Cuando lo ha escrito un profesional.
+~%-33.33333% Cuando tiene pocas líneas de código.
+= Cuando consume pocos recursos del ordenador.
+~%-33.33333% Cuando lo ejecuta un ordenador potente
+}
+
+::ED03061:: ¿Cuáles son los tipos de programas más comunes que se pueden hacer con Java?{
+~%-33.3333%Son los applets.
+~%-33.3333%Son las aplicaciones.
+~%-33.3333%Un tipo especial denominado servlets.
+=Todas son correctas.
+}
+
+::ED03062:: ¿Cuál es uno de los modelos de etapas de desarrollo más extendidos que estudiamos nosotros?{
+~%-33.3333%Modelo en espiral.
+=El modelo en cascada.
+~%-33.3333%Ninguno de las dos.
+~%-33.3333%Estudiamos las dos.
+}
+
+::ED03063:: ¿Qué informe crea la fase de ANÁLISIS del desarrollo de una aplicación?{
+=Un informe denominado ERS (Especificación de requisitos del Sistema) acompañado del diagrama de clases o del diagrama E/R.
+~%-33.3333%Ésta fase no crea ningún informe.
+~%-33.3333%Ninguna es correcta.
+~%-33.3333%Un informe ERS pero no es acompañado por nada.
+}
+
+::ED03081:: ¿En cuántas generaciones clasificamos los programas según su evolución histórica?{
+=5
+~%-33.3333%4
+~%-33.3333%6
+~%-33.3333%Ninguna es correcta.
+}
+
+::ED03082:: Los Lenguajes de programación según el propósito pueden ser:{
+=Lenguajes de propósito general, específico , programación de sistemas y script.
+~%-33.3333%Lenguajes de propósito general, reiterativo, específico y script.
+~%-33.3333%Ninguna de las dos.
+~%-33.3333%Lenguajes de prpósito general y específico únicamente.
+}
+
+::ED03083:: ¿Cuál de estas no es una clasificación válida para los lenguajes de programación según el estilo de programación de programación?{
+~%-33.3333%Imperativo.
+~%-33.3333%Declarativo.
+~%-33.3333%Orientado a objetos(POO).
+=Interactivo.
+}
+
+::ED03091::Aplicación informática:{
+=Conjunto de programas informáticos (paquete) que permiten a un usuario utilizar una computadora con un fin específico.
+~%-33.3333%	Interviene en el arranque del ordenador
+~%-33.3333%	Pieza del interior del ordenador
+~%-33.3333%	Conjunto de números al azar
+}
+
+::ED03092::Un lenguaje de programación consta de…  {
+=Un alfabeto o vocabulario, una sintaxis y una semántica
+~%-33.3333%Un alfabeto o vocabulario, solamente
+~%-33.3333%Ninguna de las anteriores
+~%-33.3333%Una sintaxis, solamente
+}
+
+::ED03093::El lenguaje de programación intenta ser…  {
+~%-33.3333%Lejano al lenguaje humano
+=Lo más próximo al leguaje humano o natural
+~%-33.3333%Lo más parecido al lenguaje de los animales
+~%-33.3333%Mezcla entre el inglés y el español
+}
+
+::ED03101::¿Cuál de los siguientes lenguajes es del lado servidor?{
+~%-33.333%PHP
+~%-33.333%ASP
+~%-33.333%JSP
+=Todas son del lado servidor
+}
+
+::ED03102::Clasificación según la INTERACTIVIDAD con el usuario u otros programas:{
+~%-33.333%Lenguajes de servidor y Lenguajes de cliente
+~%-33.333%Lenguaje ensamblador y desensamblador
+=Lenguajes orientados a sucesos (eventos) y Lenguajes no orientados a sucesos
+~%-33.333%Leguajes piramiral o estructurados.
+}
+
+::ED03103::¿Qué es SGML?{
+~%-33.333%Es una nueva versión de XML
+~%-33.333%No existe
+=Sirven para definir otros lenguajes
+~%-33.333%Es la unión de los lenguajes XML y HTML
+}
+
+::ED03111::¿Qué ventajas presenta el lenguaje de máquina?{
+~%-33.3333%Es fácil de aprender
+~%-33.3333%Es arduo de utilizar
+=Ejecución rápida y eficiente
+~%-33.3333%Ninguna de las anteriores
+}
+
+::ED03112::El Lenguaje Ensamblador es....{
+=....un derivado del lenguaje máquina.
+~%-33.3333%....un derivado del lenguaje Basic.
+~%-33.3333%....un derivado del lenguaje MS-Dos.
+~%-33.3333%b y c son correctas.
+}
+
+::ED03113::¿Cómo se denomina el traductor de lenguaje ensamblador a lenguaje máquina?{
+~%-33.3333%Lenguaje de bajo nivel.
+~%-33.3333%Ensamblado
+~%-33.3333%Lenguaje de alto nivel.
+=Ensamblador (assembler).
+}
+
+::ED03121::Los lenguajes de bajo nivel...{
+~%-33.3333%Son lenguajes totalmente independientes de la máquina
+=Son lenguajes totalmente dependientes de la máquina
+~%-33.3333%Son lenguajes que dependen de otros lenguajes
+~%-33.3333%Son lenguajes que dependen de otros países
+}
+
+::ED03122::¿Que dos lenguajes se encuentran en lenguajes de bajo nivel?{
+=Lenguaje de máquina y lenguaje ensamblador
+~%-33.3333%Lenguaje ensamblador y lenguaje alto nivel
+~%-33.3333%Ninguna de las anteriores son correctas
+~%-33.3333%Son lenguaje medio y lenguaje entero
+}
+
+::ED03123::Una característica del lenguaje de máquina es...{
+~%-33.3333%Contiene uno o más núcleos
+~%-33.3333%Se deben incluir comentarios en ellos
+=No se pueden incluir comentarios que faciliten la legibilidad de un programa escrito en este lenguaje
+~%-33.3333%Ninguna es correcta
+}
+
+::ED03141:: Indica la expresión correcta{
+~%-33.33333%FRONTAN, concebido para aplicaciones cara al servidor y para las plataformas en la nube.
+~%-33.33333%C++, un lenguaje desarrollado a partir de C#, que permite POOHD, por lo que resulta más adecuado para proyectos de una cierta envergadura.
+=JavaScript, lenguaje interpretado de lado del cliente que facilita mejoras en la interfaz del usuario y dinamismo en las páginas. Para interactuar con una página web se provee de una implementación del DOM (Document Object Model). No tiene ninguna relación con Java.
+~%-33.33333%El lenguaje COBOL se creó en 2001 para implementar opciones avanzadas a Firefox.
+}
+
+::ED03142:: Indica qué acrónimo está bien definido{
+~%-33.33333%VBScript (Vaseline Basic Script Edition)
+~%-33.33333%JSP (Java Script Pages)
+=CSS (Cascading Style Sheets)
+~%-33.33333%GUI (Graphic Username Interface)
+}
+
+::ED03143:: ¿Cuál es la expresión correcta?{
+~%-33.33333%Python, cuya filosofía hace hincapié en una sintaxis muy limpia y que favorezca un código legible. Se trata de un lenguaje de programación que soporta  tanto orientación a objetos como programación imperativa y recursiva. Es un lenguaje interpretado y multiplataforma.
+~%-33.33333%Python, cuya filosofía hace hincapié en una sintaxis libre y que favorezca un código moderno. Se trata de un lenguaje de programación que soporta java como programación binaria. Es un lenguaje interpretado y multiplataforma.
+=Python, cuya filosofía hace hincapié en una sintaxis muy limpia y que favorezca un código legible. Se trata de un lenguaje de programación que soporta  tanto orientación a objetos como programación imperativa. Es un lenguaje interpretado y multiplataforma.
+~%-33.33333%Python, usa el programa NINJA para su compilación pero usa el IDE Anaconda para la importación de sus librerías.
+}
+
+::ED03151:: ¿Qué describe el requisito funcional del Análisis?{
+~%-33.33333%Describe con detalle las características del sistema
+=Describe con detalle la función que realiza el sistema
+~%-33.33333%Describe con detalle el sistema operativo que hay que usar
+~%-33.33333%La a) y la c) son correctas
+}
+
+::ED03152:: ¿Qué tecnica de representación representa los datos y las relaciones exixtentes entre ellos?
+{
+~%-33.33333%Diagrama de Flujo de Datos
+~%-33.33333%Diccionario de Datos
+=Diagrama Entidad/Relación
+~%-33.33333%Diagrama de Clases
+}
+
+::ED03153:: La técnica de análisis más tradicional es...
+{
+~%-33.33333%Reuniones
+~%-33.33333%Casos de uso
+=Entrevistas
+~%-33.33333%Observaciones
+}
+
+::ED03161::A un programa se le puede llamar también...{
+= Proceso
+~%-33.3333% Reproducción
+~%-33.3333% Recorrido
+~%-33.3333% Ciclo
+}
+
+::ED03162::Se distinguen dos fases para ejecutar una instrucción:{
+~%-33.3333% Fase de Procesamiento y Fase de Compresión
+= Fase de Búsqueda y Fase de Ejecución
+~%-33.3333% Fase de Búsqueda y Fase Aritmética
+~%-33.3333% Seguimiento y Rotación
+}
+
+::ED03163::En la fase de Búsqueda de una instrucción (fetch)... {
+~%-33.3333% Son parte del software de unacomputadora, y suelen ejecutarse sobre el sistema operativo.
+~%-33.3333% Se realizan las acciones quelleva asociada la instrucción
+= Se localiza la instrucción aejecutar en la memoria y se lleva a la Unidad de Control para procesarla
+~%-33.3333% Nos permite indicar si queremos usar la autentificación o no.
+}
+
+::ED03171::Dos ejemplos de máquinas virtuales de sistema son{
+~%33.33333%virtualBox y VirtualScreenViewer.org
+=VirtualBox y VMware.
+~%33.33333%VirtualScreenViewer.org y VMware.
+~%33.33333%ninguna de las anteriores.
+}
+
+::ED03172::Un programa escrito en java se compila en:{
+~%33.33333%en el procesador de la misma máquina
+=en una máquina virtual (JVM java virtual machine).
+~%33.33333%en el procesador que este en la misma subred con menos ping
+~%33.33333%en el procesador de tu movil android.
+}
+
+::ED03173::La extension de un script de java sera:{
+~%33.33333%.jdk
+=.java
+~%33.33333%.scriptdejava
+~%33.33333%depende de que tipo de programa querramos hacer
+}
+
+::ED03191::Procesos que intervienen en la compilación.{
+=Análisis lexicográfico, analisis sintáctico-semántico, optimizacion de codigo.
+~%33.33333%Análisis lexicográfico, código o programa objeto y programa fuente
+~%33.33333%Inicio, entrada de datos, salida por pantalla, proceso, decisión y flujo.
+~%33.33333%Ninguna de las anteriores.
+}
+
+::ED03192::Errores de lógica:{
+~%33.33333%Se deben generalmente a operaciones no permitidas como dividir por cero.
+=Corresponden a la obteción por el programa de resultados que no son correctos.
+~%33.33333%Se debe a la realización de unas especificaciones incorrectas motivadas por una mala comunicacion entre el programador y quien plantea el problema.
+~%33.33333%Interviene en el arranque del ordenador.
+}
+
+::ED03193::Pasos para la elaboración y ejecucion de un programa (no tienen por qué estar en orden):{
+=Escribir el código fuente, compilar el fichero fuente, comprobar el funcionamiento del programa, el proceso de compilar enlazar y ejecutar el programa son alguno de los pasos para la elaboracion y ejecucion de un programa.
+~%33.33333%Instalacion de traductores, instalacion de la maquina virtual de java y tratamiento de errores.
+~%33.33333%Analisis, diseño, codificacion, pruebas, documentacion, explotacion y mantenimiento.
+~%33.33333%Todas las anteriores.
+}
+
+::ED03201::¿Qué es el software?{
+= Según la RAE un conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora.
+~%-33.3333% Según la RAE un conjunto de dispositivos electrónicos que tienen como fin ejecutar ciertas tareas tareas en una computadora.
+~%-33.3333% Según la RAE un conjunto de algoritmos que tienen como fin resolver un problema en una determinada computadora.
+~%-~%-33.3333% Todas son incorrectas.
+}
+
+::ED03202::¿Qúe categorías tiene el software?{
+~%-33.3333% Según el tipo de dispositivo que lo realiza, según su mótodo de distribución y según su licencia.
+= Según el tipo de tarea que realiza, método de distribución y licencia.
+~%-33.3333% Según el tipo de tarea que realiza, metodo de asignación y licencia.
+~%-33.3333% Todas son incorrectas.
+}
+
+::ED03203::Según el tipo de tarea que realiza el software ¿Qué tipos encontramos?:{
+= Software de sistema, de aplicación y de programación o desarrollo.
+~%-33.3333% Software de gestión, control, y protección de datos.
+~%-33.3333% Software de sistemas, aplicación y gestión.
+~%-33.3333% Todas son incorrectas.
+}
+
+::ED03211::Una de las recomendaciones para realizar una prueba de un programa es:{
+~%-33.3333%Hacer pruebas que esten documentadas
+= Las dos respuestas son válidas
+~%-33.3333%Evitar hacer pruebas que no esten documentadas
+~% -33.3333%Ducharse antes de comenzar con el programa.
+}
+
+::ED03212::La documentación se divide en: {
+~%-33.3333%Las partes que al usuario le de la gana.
+~%-33.3333%3 partes: programador medio, programador de alto nivel y usuario
+=2 partes: la disponible para el usuario y la destinada al equipo de desarrollo
+~%-33.3333%no existe ninguna, es una pregunta trampa.
+}
+
+::ED03213::La documentación del USUARIO se divide en {
+~%-33.3333%Evaluadores del sistema, Administradores del sistema, desarrolladores
+~%-33.3333%Evaluadores del sistema, Administradores del sistema, Compañia telefónica
+= Evaluadores del sistema, Administradores del sistema, Usuarios finales
+~%-33.3333%Nombre y apellidos del usuario.
+}
+
+::ED03221:: ¿Cuál de los siguientes no es un lenguaje de alto nivel?{
+=ensamblador
+~%-33.33333%pascal
+~%-33.33333%cobol
+~%-33.33333%ninguno de los anteriores es de alto nivel
+}
+
+::ED03222:: ¿Cuál de las siguientes tecnologías no necesita conocer un desarrollador web?{
+~%-33.33333%DOM
+~%-33.33333%PHP/ASP
+~%-33.33333%Javascript o similar
+=C#/Java
+}
+
+::ED03223:: ¿Qué significa "debugger"?{
+=Depurador
+~%-33.33333%Limpiador
+~%-33.33333%Desinfectante
+~%-33.33333%Insecticida
+}

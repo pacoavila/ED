@@ -1,0 +1,439 @@
+// Start of question: MultipleChoiceQ
+::ED0101:: ¿Cuál es el nombre completo de Bill Gates? {
+~%100%William Henry
+~%-33.3333%William Sean
+~%-33.3333%William Andrew
+~%-33.3333%Bill Murray
+}
+
+// Start of question: MultipleChoiceQ
+::ED0102:: ¿Como se llama la empresa a la que debe su fortuna? {
+~%100%Microsoft
+~%-33.3333%IBM
+~%-33.3333%Windows
+~%-33.3333%Linux
+}
+
+// Start of question: MultipleChoiceQ
+::ED0103:: ¿Qué puesto ocupa en la lista de Forbes de millonarios? {
+~%100%Primero
+~%-33.3333%Segundo
+~%-33.3333%Décimo
+~%-33.3333%No aparece
+}
+
+// Start of question: MultipleChoiceQ
+::ED0104:: Google lidera el desarrollo del sistema operativo basado en: {
+~%-33.3333%Google glass
+~%-33.3333%Android
+~%100%Linux
+~%-33.3333%Todas las anteriores
+}
+
+// Start of question: MultipleChoiceQ
+::ED0105:: Google es capaz de procesar más de: {
+~%-33.3333%90000 millones de búsquedas
+~%-33.3333%34000 millones de búsquedas
+~%100%1000 millones de búsquedas
+~%-33.3333%18786 millones de búsquedas
+}
+
+// Start of question: MultipleChoiceQ
+::ED0106:: Cuando estaba lista Google respondía: {
+~%100%10000 solicitudes al día
+~%-33.3333%5987 solicitudes al día
+~%-33.3333%70000 solicitudes al mes
+~%-33.3333%15000 solicitudes a la semana
+}
+
+// Start of question: MultipleChoiceQ
+::ED0107:: ¿Quién fue Dennis Ritchie? {
+~%100%Un científico de la computación
+~%-33.3333%El inventor de la rueda
+~%-33.3333%Un programador cualquiera
+~%-33.3333%El colaborador de Steve Jobs
+}
+
+// Start of question: MultipleChoiceQ
+::ED0108:: ¿Qué lenguajes desarrolló Dennis? {
+~%100%El lenguaje de programación C
+~%-33.3333%El lenguaje de programación Scratch
+~%-33.3333%El lenguaje de programación ForTran
+~%-33.3333%Son correctas todas las afirmaciones
+}
+
+// Start of question: MultipleChoiceQ
+::ED0109:: ¿Qué sistema operativo desarrolló? {
+~%100%Unix
+~%-33.3333%Windows
+~%-33.3333%Android
+~%-33.3333%GNU
+}
+
+// Start of question: MultipleChoiceQ
+::ED0110:: ¿Quién inventó el teléfono? {
+~%-33.3333%Shockley
+~%-33.3333%Walter y Bardeen
+~%-33.3333%Shockley, Walter y Bardeen
+~%100%Graham Bell
+}
+
+// Start of question: MultipleChoiceQ
+::ED0111:: ¿Cúal ha sido el mejor invento creado por los Bell Labs? {
+~%-33.3333%Lenguaje C/C++
+~%-33.3333%El láser
+~%100%El transistor
+~%-33.3333%La televisión
+}
+
+// Start of question: MultipleChoiceQ
+::ED0112:: ¿Quién es el padre de Sillicon Valley? {
+~%100%Shockley
+~%-33.3333%Los ocho traidores
+~%-33.3333%Graham Bell
+~%-33.3333%Walter y Bardeen
+}
+
+// Start of question: MultipleChoiceQ
+::ED0113:: Cuánto invirtió Linus en su primer ordenador? {
+~%-33.3333%1000$
+~%-33.3333%400$
+~%-33.3333%544$
+~%100%3500$
+}
+
+// Start of question: MultipleChoiceQ
+::ED0114:: ¿Cuántas líneas de código tiene la versión 0.01 de Linux? {
+~%-33.3333%45
+~%-33.3333%12000
+~%100%10000
+~%-33.3333%200000
+}
+
+// Start of question: MultipleChoiceQ
+::ED0115:: ¿En que universidad fue admitido Linus? {
+~%100%Universidad de Helsinki
+~%-33.3333%Universidad de Cadiz
+~%-33.3333%Universidad de Oxford
+~%-33.3333%Universidad del MIT
+}
+
+// Start of question: MultipleChoiceQ
+::ED0116:: ¿Con cuantos bloques cuenta la arquitectura de von Neumann? {
+~%100%4
+~%-33.3333%5
+~%-33.3333%6
+~%-33.3333%7
+}
+
+// Start of question: MultipleChoiceQ
+::ED0117:: ¿En qué año desarrolló su arquitectura? {
+~%100%1949
+~%-33.3333%1959
+~%-33.3333%1969
+~%-33.3333%1979
+}
+
+// Start of question: MultipleChoiceQ
+::ED0118:: ¿A qué nivel estuvo vinculado al programa atómico estadounidense? {
+~%100%Participó en el proyecto Manhattan
+~%-33.3333%Participó en el desarrollo de los motores a reacción que nos llevaron a la luna
+~%-33.3333%Formó parte del equipo que construyó la primera central nuclear
+~%-33.3333%Se limitó a desarrollar la arquitectura básica de los ordenadores actuales.
+}
+
+// Start of question: MultipleChoiceQ
+::ED0119:: ¿En qué principio se apoyó John von Neumann? {
+~%-33.3333%Libertad, igualdad y fraternidad
+~%100%En el de la "Máquina de Turing"
+~%-33.3333%Miniaturización máxima de los componentes
+~%-33.3333%Construcción de modelos monolíticos: el chip
+}
+
+// Start of question: MultipleChoiceQ
+::ED0120:: ¿En qué año se fundó Apple Computer? {
+~%-33.3333%1967
+~%-33.3333%1969
+~%100%1976
+~%-33.3333%1991
+}
+
+// Start of question: MultipleChoiceQ
+::ED0121:: ¿Cuál fue el primer producto que sacó apple al mercado? {
+~%100%Apple I
+~%-33.3333%Apple Lisa
+~%-33.3333%Macintosh 128K
+~%-33.3333%Apple II
+}
+
+// Start of question: MultipleChoiceQ
+::ED0122:: ¿En qué año fue presentado el primer iPhone? {
+~%-33.3333%2005
+~%-33.3333%2006
+~%100%2007
+~%-33.3333%2008
+}
+
+// Start of question: MultipleChoiceQ
+::ED0123:: El nombre inicial de Google fue: {
+~%-33.3333%Se llamó Google desde sus inicios
+~%-33.3333%Su primer nombre fue googol, en referencia a un número
+~%100%Lo llamaron BackRub
+~%-33.3333%Excite
+}
+
+// Start of question: MultipleChoiceQ
+::ED0124:: Google comenzó a funcionar el: {
+~%-33.3333%4 de Septiembre de 1998
+~%100%27 de Septiembre de 1998
+~%-33.3333%27 de Septiembre de 1997
+~%-33.3333%4 de Septiembre de 1997
+}
+
+// Start of question: MultipleChoiceQ
+::ED0125:: Larry Page fue CEO de Google durante: {
+~%-33.3333%Desde los inicios hasta el 2001.
+~%-33.3333%Desde el 2011, para sustituir a Schmidt anterior CEO.
+~%-33.3333%Ambas afirmaciones son ciertas
+~%-33.3333%Ninguna de las afirmaciones es cierta
+}
+
+// Start of question: MultipleChoiceQ
+::ED0126:: ¿Qué lenguaje informático creó Grace Hopper? {
+~%-33.3333%MS-DOS
+~%100%COBOL
+~%-33.3333%BLUE-J
+~%-33.3333%BASIC
+}
+
+// Start of question: MultipleChoiceQ
+::ED0127:: ¿Cual fue el primer compilador para procesamiento de datos que usaba órdenes en inglés, creado por Grace Hopper? {
+~%100%FLOW-MATIC
+~%-33.3333%BLUE-J
+~%-33.3333%BASIC
+~%-33.3333%COBOL
+}
+
+// Start of question: MultipleChoiceQ
+::ED0128:: ¿En qué Universidad de E.E.U.U. se doctoró Grace Hopper en Matemáticas? {
+~%-33.3333%UNIVERSIDAD DE HARVARD
+~%-33.3333%UNIVERSIDAD DE COLUMBIA
+~%100%UNIVERSIDAD DE YALE
+~%-33.3333%MIT
+}
+
+// Start of question: MultipleChoiceQ
+::ED0129:: ¿Qué comentario recibió Alan Turing durante su paso por la escuela? {
+~%-33.3333%"Te equivocas de lugar, tú no sirves para esto..."
+~%-33.3333%"Por qué no te dedicas a otra cosa, aquí estás perdiendo el tiempo..."
+~%100%"Si lo único que quiere ser es un especialista científico, está perdiendo el tiempo en una escuela pública"
+~%-33.3333%"Lo único que interfiere con el aprendizaje es la educación"
+}
+
+// Start of question: MultipleChoiceQ
+::ED0130:: Turing desarrolló lo que podríamos llamar la cuna del lenguaje de programación ¿Cómo se llama dicho lenguaje? {
+~%-33.3333%RPG
+~%100%Abbreviated Code Instruction
+~%-33.3333%Fortran
+~%-33.3333%PL/I
+}
+
+// Start of question: MultipleChoiceQ
+::ED0131:: ¿En qué otro campo de investigación actual tuvo gran influencia Turing? {
+~%-33.3333%redes neuronales
+~%100%morfogénesis
+~%-33.3333%robótica
+~%-33.3333%ingeniería aeroespacial
+}
+
+// Start of question: MultipleChoiceQ
+::ED0132:: ¿En qué herramienta de las siguientes no se ha visto involucrado directamente en su desarrollo Richard Stallman? {
+~%-33.3333%El editor de textos Emacs
+~%-33.3333%El compilador GCC
+~%-33.3333%El depurador GDB
+~%100%El editor de textos Vi
+}
+
+// Start of question: MultipleChoiceQ
+::ED0133:: Cuál de estas cuestiones NO se la debemos a Richard Stallman: {
+~%-33.3333%Free Software Fundation
+~%100%Linux
+~%-33.3333%Proyecto GNU
+~%-33.3333%Licencia GPL
+}
+
+// Start of question: MultipleChoiceQ
+::ED0134:: Richard Stallman: {
+~%-33.3333%Lidera el partido del software libre
+~%100%Estudió Ciencias Físicas en Harvard
+~%-33.3333%Creó el software privativo del MIT
+~%-33.3333%Creó el concepto de Copyright
+}
+
+// Start of question: MultipleChoiceQ
+::ED0135:: ¿Por qué es conocido Tim Berners-Lee? {
+~%100%Por ser el creador de la web
+~%-33.3333%Por crear el primer pc
+~%-33.3333%Por programar con JAVA
+~%-33.3333%Por ser el creador de internet
+}
+
+// Start of question: MultipleChoiceQ
+::ED0136:: Tim Berners-Lee fue graduado en... {
+~%-33.3333%Ingeniería informática
+~%-33.3333%Biología
+~%100%Física
+~%-33.3333%Historia
+}
+
+// Start of question: MultipleChoiceQ
+::ED0137:: Berners-Lee vio la oportunidad de unir Internet y el hipertexto (HTTP y HTML), de lo que surgiría... {
+~%-33.3333%JAVA
+~%100%World Wide Web
+~%-33.3333%Berners.text
+~%-33.3333%Netscape
+}
+
+// Start of question: MultipleChoiceQ
+::ED0138:: ¿De qué empresa no es fundador Elon Musk? {
+~%-33.3333%PayPal
+~%100%Amazon
+~%-33.3333%Tesla
+~%-33.3333%SpaceX
+}
+
+// Start of question: MultipleChoiceQ
+::ED0139:: ¿Qué programa Elon Musk por primera vez con 12 años? {
+~%-33.3333%un procesador de texto
+~%-33.3333%una base de datos
+~%100%un videojuego
+~%-33.3333%una hoja de cálculo
+}
+
+// Start of question: MultipleChoiceQ
+::ED0140:: ¿Dónde nació Elon Musk? {
+~%-33.3333%En Jerez de la Frontera
+~%100%En Sudáfrica
+~%-33.3333%En EEUU
+~%-33.3333%En Australia
+}
+
+// Start of question: MultipleChoiceQ
+::ED0141:: ¿Qué año fue creada Facebook? {
+~%-33.3333%1999
+~%100%2004
+~%-33.3333%2007
+~%-33.3333%2008
+}
+
+// Start of question: MultipleChoiceQ
+::ED0142:: ¿Qué fue primero? {
+~%100%thefacebook
+~%-33.3333%Facebook
+~%-33.3333%Facemash
+~%-33.3333%tuenti
+}
+
+// Start of question: MultipleChoiceQ
+::ED0143:: ¿Quién denunció a Mark? {
+~%100%Winklevoss y Divya Narendra
+~%-33.3333%El creador de napster
+~%-33.3333%Sean Parker
+~%-33.3333%Richard Stallman
+}
+
+// Start of question: MultipleChoiceQ
+::ED0144:: ¿Quién es el fundador de Amazon? {
+~%-33.3333%Steve Job
+~%-33.3333%Bill Gates
+~%100%Jeffrey Bezos
+~%-33.3333%Elon Musk
+}
+
+// Start of question: MultipleChoiceQ
+::ED0145:: ¿Qué empezó vendiendo Amazon al principio? {
+~%100%Libros
+~%-33.3333%Comida
+~%-33.3333%Tecnología
+~%-33.3333%Bicicletas
+}
+
+// Start of question: MultipleChoiceQ
+::ED0146:: ¿Cual es la visión actual del fundador de Amazon? {
+~%-33.3333%Ser la empresa número uno de ventas de libro Online
+~%100%Monopolizar todo el mercado
+~%-33.3333%Seguir creciendo como empresa para ser la empresa más cotizada en el mercado
+~%-33.3333%Acabar con las desigualdades del mundo
+}
+
+// Start of question: MultipleChoiceQ
+::ED0147:: ¿En qué año murió Steve Jobs? {
+~%-33.3333%2004
+~%100%2011
+~%-33.3333%2007
+~%-33.3333%2015
+}
+
+// Start of question: MultipleChoiceQ
+::ED0148:: ¿Cuándo obtuvo el Premio al Visionario en los Premios Billboard de Entretenimiento Digital? {
+~%100%2004
+~%-33.3333%2011
+~%-33.3333%2007
+~%-33.3333%2015
+}
+
+// Start of question: MultipleChoiceQ
+::ED0149:: ¿Cuál es el logo de Apple actualmente? {
+~%-33.3333%Una serpiente
+~%-33.3333%Newton con una manzana
+~%100%Una manzana
+~%-33.3333%Una bellota
+}
+
+// Start of question: MultipleChoiceQ
+::ED0150:: ¿Qué significa el DOS de MS-DOS? {
+~%-33.3333%Nada, simplemente era la segunda versión y la llamaron "dos"
+~%100%Sistema operativo en disco
+~%-33.3333%Sistema operativo fuera de línea
+~%-33.3333%Ninguna de las anteriores
+}
+
+// Start of question: MultipleChoiceQ
+::ED0151:: ¿Cuál de los siguientes servicios de correo electrónico no pertenecieron en ningún momento a Microsoft? {
+~%100%Mixmail
+~%-33.3333%Hotmail
+~%-33.3333%Outlook
+~%-33.3333%ProtonMail
+}
+
+// Start of question: MultipleChoiceQ
+::ED0152:: ¿Qué mercado le queda por explotar a Microsoft? {
+~%-33.3333%Televisión por cable
+~%-33.3333%Prensa escrita
+~%100%Automóviles
+~%-33.3333%Videojuegos
+}
+
+// Start of question: MultipleChoiceQ
+::ED0153:: ¿Cuantos transistores tenían los chips antes de los años 70? {
+~%100%5.000 transistores
+~%-33.3333%10.000 transistores
+~%-33.3333%100.000 transistores
+~%-33.3333%1.000.000 transistores
+}
+
+// Start of question: MultipleChoiceQ
+::ED0154:: ¿Quien inventó el diseño, la arquitectura y supervisó el desarrollo del procesador Z80? {
+~%-33.3333%Alan Turing
+~%100%Federico Faggin
+~%-33.3333%Chuck Norris
+~%-33.3333%William Shockley
+}
+
+// Start of question: MultipleChoiceQ
+::ED0155:: ¿Qué fabricaba intel inicialmente? {
+~%-33.3333%Microprocesadores
+~%-33.3333%Tabaco
+~%100%Memorias y puertas lógicas en chips MOS
+~%-33.3333%Relojes
+}

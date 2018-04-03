@@ -1,0 +1,69 @@
+::ED0201:: La Función del PC (Program Counter) es la de:{
+~%-33.3333%Contar el número de instrucciónes que un programa ha ejecutado hasta ahora
+=Apuntar a la próxima instrucción a ejecutarse
+~%-33.3333%Apuntar a la instrucción que se está ejecutando
+~%-33.3333%Decodifica la instrucción que se va a ejecutar
+}
+
+::ED0202:: La Unidad de Control es la encargada de:{
+~%-33.3333%Realizar todas la operaciónes aritméticas y lógicas que indique el programa
+=Orquestar a todos los componentes del sistema para que actúen de forma coordinada
+~%-33.3333%Almacena las instrucciónes del programa y las decodifica
+~%-33.3333%Coloca los datos en el bus del sistema
+}
+
+::ED0203:: Los programas que encontramos en la memoria de un computador están escritos...{
+=En código maquina
+~%-33.3333%En ensamblador
+~%-33.3333%En lenguajes de alto nivel
+~%-33.3333%En hexadecial
+}
+
+::ED0204:: Se conoce como Fetch...{
+~%-33.3333%Al proceso de lectura y ejecución de una instrucción
+=Al proceso de busqueda de la instrucción
+~%-33.3333%Al proceso de codificación de la instrucción
+~%-33.3333%A la ejecución de la instrucción
+}
+
+::ED0205:: El Registro de instrucción realiza la siguiente función:{
+~%-33.3333%Contiene la proxima instrucción a ser ejecutada
+~%-33.3333%Decodifica la instrucción
+~%-33.3333%Instruye a la Unidad de Control sobre la proxima instrucción a ejecutar
+=Todas las afirmaciónes son correctas
+}
+
+::ED0206:: Hoy dia se codifica la información en digital fundamentalmente porque:{
+=Es mas fácil mantenerla libre de errores
+~%-33.3333%Es mas precisa
+~%-33.3333%Es de mayor calidad
+~%-33.3333%Se puede transmitir mas rápidamente
+}
+
+::ED0207:: El primer dispositivo de comnutación electrónico utilizado en la fabricación de los ordenadores fue:{
+~%-33.3333%El transistor
+~%-33.3333%El relé
+=La válvula de vacio
+~%-33.3333%El circuito integrado
+}
+
+::ED0208:: Utilizamos código hexadecimal porque{
+~%-33.3333%Es mas fácil de leer para los humanos
+~%-33.3333%Es muy fácil de ser transcrito a binario
+~%-33.3333%Genera códigos mas compactos
+=Todas las respuestas son correctas
+}
+
+::ED0209:: Los dispositivos electrónicos consumen electricidad{
+=Continua
+~%-33.3333%Alterna
+~%-33.3333%Alta en Intensidad y Baja Tensión
+~%-33.3333%Alta en Tensión y baja intensidad
+}
+
+::ED0210:: Nos indican que la instrucción ADD Rd, Rs1, Rs2 se codifica según el esquema 01 000 Rd Rs1 Rs2 00. ¿Que código hexadecimal hemos de introducir para codificar la instrucción ADD R6, R3, R1?:{
+=4664
+~%-33.3333%4564
+~%-33.3333%462C
+~%-33.3333%D960
+}
