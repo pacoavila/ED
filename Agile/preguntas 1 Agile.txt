@@ -1,0 +1,144 @@
+::EDAG0101::
+¿Cuál de las siguientes afirmaciones es consistente con lo que defienden los promotores del Manifiesto Ágil? Marque todo lo que corresponda.
+{
+~%50%Valoramos la colaboración del cliente más que la negociación de contratos.
+~%50%Valoramos el software de trabajo más que la documentación completa.
+~%-25%Valoramos seguir un plan más que responder al cambio.
+~%-25%Valoramos procesos y herramientas más que individuos e interacciones.
+}
+
+::EDAG0102::
+¿Cuál de las siguientes afirmaciones aparece en los doce principios representados en el Manifiesto ágil? Marque todo lo que corresponda.
+{
+~%-25%Las mejores arquitecturas, requisitos y diseños surgen de equipos no organizados.
+~%50%A intervalos regulares, el equipo reflexiona sobre cómo ser más efectivo. Luego sintoniza y ajusta su comportamiento en consecuencia.
+~%-25%La simplicidad (el arte de maximizar la cantidad de trabajo realizado) es esencial.
+~%50%El software de trabajo es la medida principal del progreso.
+}
+
+::EDAG0103::
+¿Cuál de las siguientes afirmaciones sobre métodos ágiles es verdadera? Marque todo lo que corresponda.
+{
+~%-25%De acuerdo con el método XP, la documentación y el código deberían ser de primordial importancia.
+~%50%De acuerdo con el método XP, los programadores y el código deberían ser de primordial importancia.
+~%50%De acuerdo con el método Lean Software, los proyectos de software son mejores si logran deshacerse de los "desperdicios" y se concentran en lo que realmente se entregan a los clientes.
+~%-25%El método Lean Software se aplicó por primera vez en la industria de la construcción.
+}
+
+::EDAG0104::
+¿Cuál de las siguientes oraciones sobre métodos ágiles es verdadera? Marque todo lo que corresponda.
+{
+~%50%El método Crystal intenta combinar lo mejor de los métodos ágiles y los métodos tradicionales orientados a procesos.
+~%-25%Kent Beck, uno de los que propusieron XP, sugiere que los contratos para el desarrollo de software deberían fijar el tiempo, el costo, la calidad y el alcance preciso por adelantado.
+~%50%Scrum es el método que la mayoría de las organizaciones que desarrollan software que usan metodologías ágiles han adoptado.
+~%-25%La mayoría de las prácticas de Scrum son sobre cómo escribir código de alta calidad.
+}
+
+::EDAG0105::
+¿Cuál de las siguientes oraciones refleja problemas con la formulación de los principios ágiles? Marque todo lo que corresponda.
+{
+~%33.33333%Algunos principios son en realidad prácticas.
+~%33.33333%Hay cierta redundancia cuando se habla de la entrega de software.
+~%-33.33333%Las pruebas de software se discuten en un solo principio.
+~%33.33333%Algunos principios son en realidad afirmaciones
+}
+
+::EDAG0106::
+¿Qué concepto falta notablemente en la descripción de los doce principios ágiles oficiales?
+{
+Los requisitos cambian.
+=Pruebas
+~%-33.33333%Organización del equipo
+~%-33.33333%Tiempos de entrega.
+~%-33.33333%La satisfacción del cliente.
+}
+
+::EDAG0107::
+¿Cuál de los siguientes no es un valor ágil?
+{
+=Programación por pares.
+~%-33.33333%Nuevo rol reducido para el gerente.
+~%-33.33333%Centrarse en la calidad, lograda a través de pruebas.
+~%-33.33333%Sin pasos "Big Upfront".
+}
+
+::EDAG0108::
+¿Qué significa "Sin grandes pasos iniciales"?
+{
+~%-33.33333%Que las iteraciones del proyecto deben ser cortas.
+~%-33.33333%Que el alcance exacto del sistema se debe decidir de antemano.
+=Los equipos de software no deberían dedicar mucho tiempo a los requisitos, el diseño y la arquitectura antes de comenzar a codificar.
+~%-33.33333%Ese enfoque debe ser lograr calidad a través de las pruebas.
+}
+
+::EDAG0109::
+¿Qué es el Manifiesto Ágil?
+{
+~%-33.33333%Un folleto diseñado para atraer la atención del mundo del software a 24 principios del "buen" desarrollo de software.
+=Un documento firmado por un grupo de consultores de software diseñado para atraer la atención del mundo del software a 12 principios del "buen" desarrollo de software.
+~%-33.33333%Un folleto diseñado para atraer la atención del mundo del software a 12 ejemplos de desarrollo de software "malo".
+~%-33.33333%Un documento firmado por un grupo de consultores de software diseñado para atraer la atención del mundo del software a algunos patrones de diseño que demostraron ser buenos en los últimos 12 años de desarrollo de software.
+}
+
+::EDAG0110::
+¿Cuál de las siguientes afirmaciones es consistente con lo que proponen los defensores del Manifiesto Ágil? Marque todo lo que corresponda.
+{
+~%-33.33333%Valoramos procesos y herramientas más que individuos e interacciones.
+~%33.33333%Valoramos el software de trabajo más que la documentación completa.
+~%33.33333%Valoramos responder para cambiar más que seguir un plan.
+~%33.33333%Valoramos la colaboración del cliente más que la negociación de contratos.
+}
+
+::EDAG0111::
+¿Cuál de las siguientes afirmaciones aparece en los doce principios presentados en el Manifiesto ágil? Marque todo lo que corresponda.
+{
+~%50%Los patrocinadores, desarrolladores y usuarios deberían poder mantener un ritmo constante de manera indefinida.
+~%-25%Los desarrolladores y empresarios deben trabajar por separado y planear interacciones semanales.
+~%-25%El método más eficiente y efectivo para transmitir información a un equipo de desarrollo y dentro de él es usar el correo electrónico.
+~%50%Los cambios en los requisitos serán bienvenidos, incluso al final del desarrollo.
+}
+
+::EDAG0112::
+¿Cuál de las siguientes afirmaciones aparece en los doce principios representados en el Manifiesto ágil? Marque todo lo que corresponda.
+{
+~%33.33333%Desarrolle proyectos en torno a personas motivadas.
+~%-33.33333%La satisfacción del cliente es la medida principal del progreso.
+~%33.33333%Entregar software que funciona con frecuencia, entre un par de semanas a un par de meses.
+~%33.33333%Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software valioso.
+}
+
+::EDAG0113::
+¿Cuál de las siguientes oraciones sobre métodos ágiles es verdadera? Marque todo lo que corresponda.
+{
+~%25%Kent Beck, en XP, sugiere que los contratos para el desarrollo de software deberían fijar el tiempo, el costo y la calidad, dejando el alcance preciso del sistema abierto a la negociación. Esto debería conducir a la firma de una secuencia de pequeños contratos en lugar de solo uno grande.
+~%25%Crystal es un nombre para un conjunto de métodos que utilizan diferentes colores para reflejar el tamaño y la criticidad de un proyecto de software.
+~%25%El método Lean Software se inspiró en técnicas que se aplicaron por primera vez en Toyota y en la industria del automóvil.
+~%25%La mayoría de las prácticas de Scrum son sobre cómo administrar un proyecto.
+}
+
+::EDAG0114::
+¿Qué se entiende cuando criticamos el décimo principio ("La simplicidad, el arte de maximizar la cantidad de trabajo no realizado, es esencial")?
+{
+~%-33.33333%Se entiende que la simplicidad no debe ser un objetivo, porque los sistemas de software son complejos por naturaleza.
+~%-33.33333%Se entiende que la simplicidad se debe lograr minimizando la cantidad de trabajo realizado en su lugar.
+=Se entiende que la simplicidad tiene un costo, y generalmente requiere más trabajo, en lugar de menos, para reducir la complejidad.
+~%-33.33333%Se entiende que la simplicidad es importante, pero no esencial.
+}
+
+::EDAG0115::
+Los métodos ágiles sugieren un rol nuevo y reducido para el gerente. ¿Cual de los siguientes es verdadero?
+{
+~%-33.33333%El gerente solo debería ser responsable de la finalización exitosa del proyecto.
+=El gerente no debe asignar tareas a los desarrolladores.
+~%-33.33333%El gerente solo debería ser responsable de las pruebas de software.
+~%-33.33333%El gerente solo debe asegurarse de que se satisfagan las necesidades del cliente.
+}
+
+::EDAG0116::
+¿Cuál de las siguientes oraciones sobre el desarrollo iterativo es verdadera?
+{
+~%-33.33333%El desarrollo iterativo implica realizar el número mínimo de iteraciones necesarias para completar la fase de obtención de requisitos, luego el número mínimo de iteraciones necesarias para completar la fase de desarrollo y finalmente el número mínimo de iteraciones necesarias para completar la fase de prueba.
+~%-33.33333%El desarrollo iterativo implica realizar la fase de obtención de requisitos, luego la fase de diseño, luego la fase de desarrollo, y finalmente la fase de prueba antes de presentar el resultado al cliente. Esto debe repetirse cada seis meses.
+~%-33.33333%El desarrollo iterativo implica realizar ciclos de desarrollo cortos (de un día a algunas semanas) y evitar, en la medida de lo posible, la obtención de requisitos, el diseño y la documentación.
+=El desarrollo iterativo implica realizar ciclos de desarrollo que duran desde un día hasta algunas semanas. Cada ciclo incluye la obtención de requisitos, el diseño, el desarrollo y las pruebas en un alcance generalmente limitado.
+}
