@@ -1,0 +1,319 @@
+::EDAG0201::
+¿Cuáles de los siguientes son problemas asociados con el modelo Waterfall? Marque todo lo que corresponda.
+{
+~%33.33333%Diferencias de impedancia entre análisis, diseño e implementación.
+~%-33.33333%Orden incorrecto de actividades.
+~%33.33333%Aparición tardía del código real.
+~%33.33333%Falta de soporte para el cambio de requisitos.
+}
+
+::EDAG0202::
+¿Qué dicen los metodólogos ágiles sobre los requisitos?
+{
+~%-33.3333%Son completamente inútiles.
+~%-33.3333%No deberían estar en forma escrita.
+~%-33.3333%No deberían ser entregados al cliente.
+=El tiempo dedicado a formalizarlos debe reducirse al mínimo
+}
+
+::EDAG0203::
+¿Cuál de las siguientes afirmaciones es consistente con el principio de "poner al cliente en el centro"? Marque todo lo que corresponda.
+{
+~%50%Se debería hablar con "clientes reales", es decir, personas que van a usar el software, no solo sus representantes.
+~%-25%Los clientes deben participar solo cuando el producto de software final esté listo, para evitar perder el tiempo.
+~%-25%Los clientes deberían participar solo durante la primera iteración de cada fase de requisitos.
+~%50%Los clientes deberían participar en todo el proyecto.
+}
+
+::EDAG0204::
+¿Qué sugieren los métodos ágiles para mantener un ritmo sostenible? Marque todo lo que corresponda.
+{
+~%-25%Nunca hagas horas extras.
+~%50%Realiza fusiones frecuentes de código.
+~%-25%Tener descansos frecuentes
+~%50%Mantenga siempre el código ejecutable comprobado por los test.
+}
+
+::EDAG0205::
+El enfoque Lean tiene un énfasis en la eliminación de "residuos"(wastes). ¿Cuál de los siguientes artículos constituye un residuo según Lean? Marque todo lo que corresponda.
+{
+~%50%Características adicionales.
+~%-25%Documentos de requisitos.
+~%-25%Diagramas UML.
+~%50%Trabajo parcialmente desarrollado no publicado.
+}
+
+::EDAG0206::
+El enfoque Lean tiene un énfasis en la eliminación de "residuos". ¿Cuál de los siguientes artículos constituye desperdicio según Lean? Marque todo lo que corresponda.
+{
+~%-25%Defectos encontrados por las pruebas.
+~%-25%Defectos encontrados por revisiones de código.
+~%50%Características no utilizadas.
+~%50%Artefactos intermedios o no utilizados.
+}
+
+::EDAG0207::
+¿Cuáles de las siguientes son contribuciones importantes de métodos ágiles para el desarrollo de software? Marque todo lo que corresponda.
+{
+~%-25%Programación iterativa, que primero fue introducida por métodos ágiles.
+~%50%Iteraciones cortas.
+~%-25%Los desarrolladores no pueden agregar casos de prueba a la iteración actual.
+~%50%Los clientes no pueden agregar funcionalidad a la iteración actual.
+}
+
+::EDAG0208::
+¿Qué sugieren los métodos más ágiles con respecto a las pruebas? Marque todo lo que corresponda.
+{
+~%-33.33333%Los gerentes deciden qué funcionalidades probar y cuándo.
+~%-33.33333%No es necesario pasar las pruebas de regresión en cada iteración (solo en las más importantes).
+~%100%Los desarrolladores deberían pasar a la siguiente iteración solo si pasan todas las pruebas para la iteración actual.
+~%-33.33333%Las pruebas solo deben escribirse después del código que desean probar.
+}
+
+::EDAG0209::
+¿Qué sugiere el método Crystal con respecto a la seguridad personal? Marque todo lo que corresponda.
+{
+~%33.33333%Alentar la libre expresión de ideas.
+~%-33.33333%Confiar en los clientes.
+~%33.33333%Evitar burlarse de una persona por una pregunta o sugerencia.
+~%33.33333%Construir confianza dentro del equipo.
+}
+
+::EDAG0210::
+¿Cuál de las siguientes ayudas amplifica el aprendizaje de acuerdo con los metodólogos Lean? Marque todo lo que corresponda.
+{
+~%50%Presente pantallas a los usuarios finales para obtener su opinión.
+~%-25%Presente el código a los clientes.
+~%-25%Trabajo en parejas.
+~%50%Aplicar ciclos de iteración cortos.
+}
+
+::EDAG0211::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Aceptar cambio
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0212::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Producir la mínima cantidad de software
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0213::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Desarrollar iterativamente
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0214::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Mantener un ritmo sostenible
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0215::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Trate las pruebas como un recurso clave
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0216::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Coloque al cliente en el centro
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0217::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Deje que el equipo se autoorganice
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0218::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Requisitos expresados a través de escenarios
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0219::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+No inicie ningún desarrollo nuevo hasta que pasen todas las pruebas
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0220::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Desarrolle solo código y pruebas
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0221::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Requisitos de congelación durante las iteraciones
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0222::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Las pruebas primero
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0223::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Producir una funcionalidad mínima
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0224::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Producir solo el producto solicitado
+{
+=Organizativo
+~%-100%Técnico
+}
+
+::EDAG0225::
+Seleccione la categoría correcta (Organizativo/Técnico) para el principio ágil:
+Producir iteraciones de trabajo frecuentes
+{
+~%-100%Organizativo
+=Técnico
+}
+
+::EDAG0226::
+¿Qué función de Scrum es responsable de aceptar o rechazar el resultado de una iteración en un proyecto?
+{
+~%-33.3333%Gerente de producto
+~%-33.3333%Gerente de requisitos
+~%-33.3333%Requisitos maestro
+=Dueño del producto
+}
+
+::EDAG0227::
+¿Cuáles de las siguientes son responsabilidades del gerente en el enfoque ágil? Marque todo lo que corresponda.
+{
+~%-33.33333%Decida qué desarrollador debe hacer qué.
+~%33.33333%Asegúrate de que el espíritu de equipo sea alto.
+~%33.33333%Fomentar el progreso.
+~%33.33333%Eliminar impedimentos.
+}
+
+::EDAG0228::
+El enfoque Lean tiene un énfasis en la eliminación de "residuos". ¿Cuál de los siguientes artículos constituye desperdicio según Lean? Marque todo lo que corresponda.
+{
+~%50%Defectos no detectados por las revisiones y los tests.
+~%-25%Hacer horas extras.
+~%50%Esperas del cliente.
+~%-25%El diseño de documentos.
+}
+
+::EDAG0229::
+El enfoque Lean tiene un énfasis en la eliminación de "residuos". ¿Cuál de los siguientes elementos es Lean? Marque todo lo que corresponda.
+{
+~%-25%Requisitos en forma escrita.
+~%50%Las transferencias (Handoffs).
+~%-25%Participación del cliente.
+~%50%Búsqueda de información.
+}
+
+::EDAG0230::
+¿Qué es una prueba de regresión en el contexto de un proyecto de software?
+{
+~%-33.3333%Una colección de pruebas utilizadas para generar un fallo del sistema a propósito en elementos de software predeterminados.
+~%-33.3333%Una colección de pruebas que nunca fallaron en la historia del proyecto.
+~%-33.3333%Una colección de tests utilizados para asegurar que los fallos que nunca ocurrieron antes no aparezcan en el código de las nuevas características implementadas.
+=Una colección de pruebas que incluyen pruebas que fallaron en la historia del proyecto, para asegurar que los fallos que nunca ocurrieron antes no aparezcan en el código de las nuevas características implementadas.
+}
+
+::EDAG0231::
+¿Qué es una "user story" según Scrum?
+{
+=Una explicación informal de qué quiere un usuario y por qué.
+~%-33.3333%Una especificación formal y exhaustiva de qué quiere un usuario y por qué.
+~%-33.3333%Una colección de imágenes que expresan las necesidades del cliente.
+~%-33.3333%Una conversación informal entre el cliente y los desarrolladores sobre lo que el sistema debería hacer.
+}
+
+::EDAG0232::
+El enfoque de XP sugiere reconocer que el software es desarrollado por personas. ¿Qué deberían ofrecer los desarrolladores en su entorno de trabajo según XP? Marque todo lo que corresponda.
+{
+~%33.33333%Seguridad.
+~%33.33333%Pertenencia.
+~%-33.33333%Una carrera profesional acelerada para aquellos que desean trabajar más, especialmente los fines de semana.
+~%33.33333%Logros.
+}
+
+::EDAG0233::
+¿Cuál es el enfoque de diseño múltiple sugerido por el método Lean?
+{
+~%-33.3333%Asignar el mismo problema a diferentes equipos, secuencialmente.
+=Asignar el mismo problema a diferentes equipos, en paralelo.
+~%-33.3333%Asignar diferentes problemas a diferentes equipos, secuencialmente.
+~%-33.3333%Asignar diferentes problemas a diferentes equipos, en paralelo.
+}
+
+::EDAG0234::
+Estás invitado a visitar, como observador, a un equipo que trabaja en un proyecto de software.\n
+Tom, el gerente de proyecto, te describe cómo trabaja su equipo:\n
+"...para empezar, nuestros representantes comerciales, junto con nuestros expertos en requisitos, discuten con el cliente qué debe hacer el sistema y  lo anotan en forma de un documento de requisitos.
+Los representantes comerciales también acuerdan los plazos y precios y estipulan un contrato. En nuestro caso, se nos pagará cada vez que entreguemos algo al cliente, por ejemplo, documentos, código o funcionalidad de trabajo.
+El documento de requisitos se pasa a nuestro equipo de analistas que escribe el documento de análisis. El documento, cuando está listo, se pasa al equipo de diseño, que crea el documento de diseño.
+Luego distribuyo personalmente al equipo de desarrollo las diversas tareas, que consisten en las funcionalidades para implementar. Los desarrolladores también se encargan de implementar el código en un servidor de prueba para que pueda ser probado antes de entrar en producción.
+Los evaluadores, que son un equipo en sí mismos, escriben tests para todas las funcionalidades que aparecen en el documento de requisitos. Cada test consiste en una secuencia de pasos que proporcionan una interacción entre un usuario y el sistema, y ​​el resultado esperado.
+Estamos planeando terminar con el documento de requisitos en dos meses. Después de eso, deberíamos haber terminado con el documento de análisis en un mes, y debería llevar otro mes el documento de diseño. Por tanto, después de cuatro meses, comenzaremos a desarrollar código.
+Según nuestras estimaciones, deberíamos completar la implementación en siete meses. Después de otro mes dedicado a probar y corregir errores, deberíamos poder mostrar todo el sistema al cliente.
+Confío en que lograremos un buen resultado porque dispongo de gente preparada y las valoro mucho. Por ejemplo, tenemos una regla que a todos les gusta y a la que se apegan: sin horas extras, pot ningún motivo. En mi experiencia, esto reduce el estrés, hace que la gente se centra más en su jornada ordinaria de trabajo, y les deja tener una vida más allá de su trabajo."\n
+En base a lo que dijo Tom, ¿qué conclusiones sacas? Marcar todo lo que aplique.
+{
+~%-12.5%Tom describe un típico proyecto de software de organización ágil.
+~%25%Tom describe lo que parece ser una organización en cascada de su proyecto de software.
+~%-12.5%El cliente parece estar implicado en la totalidad del ciclo de vida del proyecto.
+~%25%Todos los documentos que se entregarán actúan como niveles de indirección entre los requerimiento actuales y el código que se supone que los implementará, lo que aumenta la probabilidad de que el equipo de desarrollo tenga ciertos malentendidos.
+~%-12.5%El equipo de desarrollo aparenta estar auto-organizado, en el sentido de que los desarrolladores deciden qué tareas hace cada uno.
+~%-12.5%El equipo de pruebas de Tom parece que aplican un desarrollo dirigido por los test (test-driven development).
+~%25%El equipo de Tom aparenta ser capaz de mantener un ritmo de trabajo sostenible.
+~%25%El equipo de Tom corre el riesgo de darse cuenta tarde (por ejemplo, durante la implementación) que ciertas suposiciones hechas en los requisitos, análisis y/o documentación de diseño no son correctos, con los consecuentes retrasos en calendario del proyecto.
+}
+
+::EDAG0235::
+En Scrum y en algunos otros enfoques ágiles, los equipos recogen "user stories" atrasadas ​una tras otra a medida de que los miembros se encuentran disponibles, un proceso que asume que hay poca o ninguna interdependencias entre "user stories". En aras de este ejemplo, considera estas cuatro "user stories":\n
+1.- Como cliente, quiero hablar por teléfono a uno de los vendedores de la compañía cuando estoy interesado en comprar uno de sus productos.
+2.- Como cliente, quiero que me pregunten si estoy satisfecho con la calidad de un producto que compré de la empresa.
+3.- Como cliente, quiero usar mi ordenador para chatear con el soporte técnico de la compañía cuando tenga problemas usando uno de los productos de la compañía.
+4.- Como vendedor, quiero poder activar mi buzón de voz personal del móvil de la compañía en cualquier momento.\n
+¿Qué orden de implementación de cada "user story" es posible?. Marcar todas las posibles.
+{
+~%25%1, 2, 3, 4
+~%25%1, 3, 2, 4
+~%25%4, 2, 3, 1
+~%25%4, 3, 2, 1
+~%-25%Ningún orden es factible debido a la interdependencia mutua entre historias.
+}
