@@ -1,0 +1,139 @@
+:: EDAG0301 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades tradicionales del gerente?
+{
+~%50% Validar requisitos.
+~%-25%Desarrollar la infraestructura.
+~%50% Asignar tareas.
+~%-25%Escribir pruebas.
+}
+
+:: EDAG0302 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades tradicionales del gerente?
+{
+~%50% Decida si se han cumplido los objetivos.
+~%-25%Toma el control del diseño general del sistema.
+~%-25%Codifique la interfaz de usuario.
+~%50% Definir objetivos.
+}
+
+:: EDAG0303 ::
+¿Cuál es la cantidad ideal de miembros en un equipo de software según Scrum?
+{
+~%-25% 5 +/- 2
+~%-25% 6 +/- 2
+= 7 +/- 2
+~%-25% 8 +/- 2
+~%-25% 9 +/- 2
+}
+
+:: EDAG0304 ::
+¿Quiénes son los "pollos" en una reunión de Scrum?
+{
+~%-33.3333%Los clientes.
+= Personas que no están realmente comprometidas con el proyecto, que darán una opinión si se lo piden.
+~%-33.3333%Personas que generalmente son las últimas en elegir tareas por sí mismas.
+~%-33.3333%Gerentes de alto nivel.
+}
+
+:: EDAG0305 ::
+¿Cuáles de las siguientes se consideran responsabilidades de los clientes en XP?
+{
+~%33.33333% Trabajar dentro del equipo, proporcionar orientación y recibir comentarios de la forma más rápida y precisa posible.
+~%33.33333% Proporcionar historias precisas, permitiendo a los desarrolladores producir tarjetas de tareas integrales y estimaciones precisas.
+~%33.33333% Analiza el riesgo correctamente, sopesando historias entre sí.
+~%-33.33333%Asigna tareas al equipo de desarrollo.
+}
+
+:: EDAG0306 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades de los desarrolladores en XP y Scrum?
+{
+~%33.33333% Implementa solo lo necesario.
+~%-33.33333%Proporcione historias de usuario precisas, permitiendo a los usuarios producir tarjetas de tareas integrales y estimaciones precisas.
+~%33.33333% Estime el trabajo para cada historia.
+~%33.33333% Identificar características riesgosas e informarlas al cliente.
+}
+
+:: EDAG0307 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades tradicionales del gerente?
+{
+~%-25%Entreviste a los clientes sobre los requisitos.
+~%-25%Desarrollar la infraestructura.
+~%-25%Escribir pruebas unitarias
+~%-25%Escribir pruebas de interfaz de usuario.
+~%100% Ninguno de los anteriores.
+}
+
+:: EDAG0308 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades tradicionales del gerente?
+{
+~%25% Proporcionar una interfaz con una administración superior.
+~%25% Coach.
+~%25% Mente.
+~%25% Imponer reglas y metodología.
+}
+
+:: EDAG0309 ::
+¿Cuáles son las responsabilidades típicas de un equipo autoorganizado según Scrum?
+{
+~%33.33333% Puede hacer todo dentro de las pautas para lograr el objetivo.
+~%-33.33333%Decida si los resultados de trabajo son satisfactorios.
+~%33.33333% Demo work results to product owner.
+~%33.33333% Seleccione el objetivo de iteración y los resultados de trabajo.
+}
+
+:: EDAG0310 ::
+¿Cuáles de las siguientes son las responsabilidades típicas del propietario del producto según Scrum?
+{
+~%33.33333% Rentabilidad del producto.
+~%33.33333%Decidir fecha de lanzamiento y contenido.
+~%-33.33333%Demostrar resultados de trabajo para el cliente.
+~%33.33333% Definir las características del producto y su prioridad.
+}
+
+:: EDAG0311 ::
+¿Cuáles de las siguientes son las responsabilidades típicas del Scrum Master según Scrum?
+{
+~%50%Asegúrese de que el equipo sea productivo.
+~%-25%Decidir sobre la fecha de lanzamiento y el contenido.
+~%50% Imponer el proceso, incluidas las reuniones diarias, la planificación y las reuniones de revisión.
+~%-25%Definir las características del producto y su prioridad.
+}
+
+:: EDAG0312 ::
+¿Cuáles de los siguientes son ejemplos de "impedimentos" que se supone que el Scrum Master debe eliminar?
+{
+~%20%Limitaciones de hardware.
+~%20%Requisitos faltantes.
+~%20%Interferencias de gestión.
+~%20%Demoras burocráticas.
+~%-20%Demasiadas funciones en una iteración.
+~%20%Falta el software de soporte.
+~%-20%Pruebas de regresión fallidas.
+}
+
+:: EDAG0313 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades de los desarrolladores en XP y Scrum?
+{
+~%33.33333% Comuníquese constantemente con los clientes.
+~%-33.33333%Decida el presupuesto para las iteraciones del proyecto.
+~%33.33333%Siempre conoce la respuesta a las preguntas: "¿Cuánto tiempo llevará?", "¿Cuáles son los riesgos?", "¿Cómo lo implementaremos?".
+~%33.33333% Identificar características que dependen de otras características.
+}
+
+:: EDAG0314 ::
+¿Cuáles de las siguientes opciones se consideran responsabilidades del rastreador en XP y Scrum?
+{
+~%50% Mantenga un registro del horario.
+~%-25%Mantenga un registro del presupuesto del proyecto.
+~%-25%Lleve un registro de cuántos días de vacaciones tomó cada desarrollador.
+~%50% Mida la velocidad.
+}
+
+:: EDAG0315 ::
+Usted es el propietario del producto de un proyecto de software ágil que acaba de comenzar, y está a punto de tener su primera reunión con el cliente. Puede suponer que tiene una idea vaga de lo que el cliente necesita. ¿Cuál de los siguientes sería su curso de acción preferido? Siéntase libre de discutir la pregunta en el foro.
+{
+~%-33.3333%Comienza presentando una lista de características que pueden ser parte del producto final.
+~%-33.3333%Independientemente de su conocimiento sobre lo que el cliente necesita, comienza preguntándole al cliente sobre el problema sin interferir. Más tarde, sugiere una solución en forma de una lista de características que pueden ser parte del producto final.
+= Independientemente de su conocimiento sobre lo que el cliente necesita, usted comienza preguntándole al cliente sobre el problema, cuestionando su existencia con preguntas cuando corresponda. Más tarde, sugiere una solución en forma de una lista de características que pueden ser parte del producto final.
+~%-33.3333%Independientemente de su conocimiento sobre lo que el cliente necesita, comienza preguntándole al cliente sobre el problema sin interferir. Más tarde, vuelves al desarrollo
+}
